@@ -1,0 +1,15 @@
+{
+        "code" : 0,
+        "msg" : "Operation Success!",
+        "data" : { 
+                "name" : "123",
+                "avatar" : "http://v1.qzone.cc/avatar/201402/23/11/34/53096c381b3c1501.jpg%21200x200.jpg",
+                "expenseSum" : "1530.20",
+                "expenseDetail" : [ 
+                        {
+                                "month" : 1,
+                                "expense" : 750.70
+                        }
+                ]
+        }
+}
